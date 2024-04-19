@@ -9,6 +9,39 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 400px;
+    min-height: 338px;
   }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 259px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 194px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 122px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 513px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: "IBM Plex Sans Arabic";
+  font-weight: 700;
+  margin: 22px 87px 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: "Noto Kufi Arabic";
+  line-height: 1.8;
+  font-weight: 700;
+  margin: 22px 0 38px;
 }
